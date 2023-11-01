@@ -1,5 +1,9 @@
 body {
-    background: #34495e;
+    background-image: url(../img/tesoro.es.png);
+}
+
+.img {
+    background-color: rgba(0, 0, 0, 0.598);
     color: white;
     display: flex;
     justify-content: center;
